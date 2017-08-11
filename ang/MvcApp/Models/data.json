@@ -1,0 +1,14 @@
+﻿[
+  {
+    "TerritoryCode": 1,
+    "WarehouseCode": "Code1"
+  },
+  {
+    "TerritoryCode": 2,
+    "WarehouseCode": "Code2"
+  },
+  {
+    "TerritoryCode": 3,
+    "WarehouseCode": "Code3"
+  }
+]
